@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img">
+<title>A股 L1 全天 Tick 五档盘口历史数据</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#112743"/><stop offset="1" stop-color="#061421"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#37d8dc"/><stop offset=".5" stop-color="#5a9fff"/><stop offset="1" stop-color="#bd82ff"/></linearGradient>
+</defs>
+<rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+<g stroke="#315878" opacity=".28" stroke-width="1"><path d="M990 65V430M1080 65V430M1170 65V430M1260 65V430M1350 65V430M1440 65V430M1530 65V430"/><path d="M950 100H1560M950 160H1560M950 220H1560M950 280H1560M950 340H1560M950 400H1560"/></g>
+<path d="M945 350L1015 338L1080 372L1133 275L1200 298L1255 213L1310 237L1360 174L1414 195L1470 136L1540 123" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+<g fill="#5cdbff"><circle cx="1133" cy="275" r="6"/><circle cx="1255" cy="213" r="6"/><circle cx="1360" cy="174" r="6"/><circle cx="1470" cy="136" r="6"/></g>
+<text x="72" y="100" font-family="Arial,'Microsoft YaHei',sans-serif" fill="#78dfff" font-size="26" letter-spacing="3">A-SHARE HISTORICAL L1 TICK DATA</text>
+<text x="72" y="188" font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#f3f7ff" font-size="64" font-weight="700">历史五档盘口 · AI 可回放</text>
+<text x="75" y="247" font-family="Arial,sans-serif" fill="#b8d3e9" font-size="31">27 fields  /  5-level order book  /  snapshot timeline</text>
+<rect x="72" y="306" width="274" height="75" rx="15" fill="#183e56" stroke="#267f99"/><rect x="368" y="306" width="263" height="75" rx="15" fill="#183e56" stroke="#267f99"/><rect x="652" y="306" width="273" height="75" rx="15" fill="#183e56" stroke="#267f99"/>
+<text x="209" y="336" text-anchor="middle" font-size="19" fill="#90e0f2" font-family="Arial,sans-serif">HISTORICAL SCOPE</text><text x="209" y="365" text-anchor="middle" font-size="29" font-weight="bold" fill="#fff" font-family="Arial,sans-serif">2010–2026</text>
+<text x="500" y="336" text-anchor="middle" font-size="19" fill="#90e0f2" font-family="Arial,sans-serif">QUOTED CADENCE</text><text x="500" y="365" text-anchor="middle" font-size="29" font-weight="bold" fill="#fff" font-family="Arial,sans-serif">≈ 3 seconds</text>
+<text x="788" y="336" text-anchor="middle" font-size="19" fill="#90e0f2" font-family="Arial,sans-serif">VERIFIED SAMPLE</text><text x="788" y="365" text-anchor="middle" font-size="29" font-weight="bold" fill="#fff" font-family="Arial,sans-serif">4,935 frames</text>
+<text x="75" y="459" fill="#94b3ca" font-size="22" font-family="Arial,'Microsoft YaHei',sans-serif">Five-level snapshots  ·  Historical replay  ·  AI-assisted research</text>
+</svg>
